@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from 'react';
-import AboutImage from '../assets/aboutImage.jpg';
+import AboutImage from '../assets/aboutimage.jpg';
 import { FaWhatsapp } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
 
