@@ -98,7 +98,7 @@ const ContactUs = () => {
           <img src={Contact} alt="Contact Us" className='w-full h-64 object-cover rounded-t-md' />
           <div className='p-6 text-center'>
             <p className='text-gray-700 text-lg mb-4 font-poppins'>
-              At <strong>Tax Tech Solutions</strong>At Tax Tech Solutions, 
+              At <strong>Tax Tech Solutions</strong>, 
               we are here to make your tax and financial matters simple and stress-free.
                Whether you have questions, need guidance, or 
                want assistance with tax registration or compliance, 
