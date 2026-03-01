@@ -1,21 +1,20 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'; // Ensure BrowserRouter is imported
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import NavBar from './components/NavBar';
 import FirstPage from './components/FirstPage';
 import ContactUs from './components/ContactUs';
 import About from './components/About';
 import Footer from './components/Footer';
 import Services from './components/Services';
-
-import ScrollToTop from './components/ScrollToTop'; // Import the ScrollToTop component
+import ScrollToTop from './components/ScrollToTop';
 import './App.css'; 
 
 const App = () => {
     return (
-        <Router>
+        <Router basename="/Tax-Tech-Solutions">
             <div className='bg-zinc-100 min-h-screen flex flex-col'>
                 <NavBar />
-                <ScrollToTop /> {/* Add ScrollToTop here */}
+                <ScrollToTop />
                 <main className="flex-grow">
                     <Routes>
                         <Route path="/" element={<FirstPage />} />
