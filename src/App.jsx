@@ -11,7 +11,7 @@ import './App.css';
 
 const App = () => {
     return (
-        <Router basename="/Tax-Tech-Solutions">
+        <Router>
             <div className='bg-zinc-100 min-h-screen flex flex-col'>
                 <NavBar />
                 <ScrollToTop />
