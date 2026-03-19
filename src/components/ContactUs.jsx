@@ -106,7 +106,7 @@ const ContactUs = () => {
                we’re here to support you every step of the way..
             </p>
             <p className='text-blue-800 font-semibold text-lg'>
-              071 038 3306 | taxtechs6@gmail.com | Hazyview, Mpumalanga
+              071 038 3306 | info@taxtechsolutions.co.za  | Hazyview, Mpumalanga
             </p>
           </div>
         </div>
