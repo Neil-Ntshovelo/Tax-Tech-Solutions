@@ -129,7 +129,8 @@ const ContactUs = () => {
               <FaPhone className='mr-3 text-green-600' /> 071 038 3306
             </p>
             <p className="flex items-center">
-              <FaEnvelope className="mr-3 text-blue-600" /> taxtechs6@gmail.com
+              <FaEnvelope className="mr-3 text-blue-600" /> info@taxtechsolutions.co.za
+            
             </p>
             <p className="flex items-center text-center">
               <FaMapMarkerAlt className="mr-3 text-red-600" /> Hazyview, Mpumalanga, South Africa
